@@ -11,7 +11,7 @@ export default function Mainpages() {
   return (
     <div>
         <h1>main pages</h1>
-        <hr />
+        <hr />  hello
         <Subpage1 X="hi child how are you ? keep rocing keep going"/>
         <hr />
         <Subpages2 X="hi child how are you ?  keep rocing"/>
